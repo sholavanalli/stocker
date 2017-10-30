@@ -1,2 +1,2 @@
-# stocker
+# Stocker
 Stock Analysis and Notification
